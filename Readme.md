@@ -18,7 +18,7 @@ Explore the full platform at [13Radar.com](https://www.13radar.com/).
 
 ---
 
-## 🔍 SEO Keywords
+## 🔍 Highlight
 This repository and site highlight:
 - SEC 13F filings
 - Guru holdings reports
